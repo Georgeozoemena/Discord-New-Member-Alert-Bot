@@ -1,1 +1,1 @@
-"# Discord-New-Member-Alert-Bot" 
+Discord-New-Member-Alert-Bot" 
